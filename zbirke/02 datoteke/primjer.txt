@@ -1,0 +1,2 @@
+U ovoj datoteci nalazi se primjer toga što se desi kad se "naši" znakovi ne prikazuju ispravno:
+č ć š ž

@@ -1,0 +1,19 @@
+**1. Zadatak**
+
+U svakom redu tekstualne datoteke `operacije.txt` nalaze se podaci u sljedećem obliku:
+
+> *broj* **operator** *broj*
+
+a) Napiši program koji će u svaki red datoteke `rezultati.txt` ispisivati rezultat tako da na unesene brojeve primijeni operator. Dozvoljeni operatori su +, -, * i /. Za prvu ruku pretpostavite da su svi podaci ispravno uneseni u datoteku.
+
+b) Nadogradi program tako da provjeri sva potencijalna odstupanja od željenog formata i ako je neki red krivo unesen umjesto rezultata operacije upiše riječ *greška*
+
+Primjer sadržaja datoteka:
+
+|Sadržaj **operacije.txt**|Sadržaj **rezultati.txt**|
+|:-|:-|
+|`3 * 5`|15|
+|`4 +8`|greška|
+|`19 - 12`|7|
+|`7 / 2`|3.5|
+|` / 3`|greška|
