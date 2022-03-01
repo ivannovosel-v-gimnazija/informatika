@@ -1,4 +1,4 @@
-# informatika
+# Informatika
 Materijali za nastavu informatike u prirodoslovno-matematičkoj gimnaziji
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ivannovosel-v-gimnazija/informatika/HEAD)
+Otvorite repozitorij u Binderu kako bi mogli uređivati Jupyter bilježnice online [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ivannovosel-v-gimnazija/informatika/HEAD)
