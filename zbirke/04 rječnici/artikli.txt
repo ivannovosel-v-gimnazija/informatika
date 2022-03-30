@@ -1,0 +1,10 @@
+Mineralna voda J 1 L,4.50,45
+Jabuke idared 1 kg,9.99,32
+Kruh bijeli štruca,7.00,90
+Jaja M 12 komada,11.50,55
+Mlijeko Z 1 L,5.60,80
+WC papir troslojni,12.99,114
+Ulje suncokretovo 1 L,13.49,88
+Banane 1 kg,8.99,55
+Čokolada D 200 g,15.00,38
+Pileća prsa 400 g,23.49,87
