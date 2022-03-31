@@ -1,0 +1,5 @@
+# konfiguracija za Binder
+# popis modula koji su nužni za pokretanje
+
+matplotlib
+numpy
