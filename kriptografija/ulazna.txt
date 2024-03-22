@@ -1,0 +1,3 @@
+ovo je sadržaj ulazne datoteke
+često krivo ispiše hrvatske znakove
+kao ć i đ
